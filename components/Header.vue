@@ -4,7 +4,7 @@
       <div class="flex justify-between items-center">
         <div>
           <NuxtLink to="/">
-            <img alt="Logo" class="w-32" src="@/public/logo.svg" />
+            <img alt="Logo" class="w-24" src="@/public/logo.svg" />
           </NuxtLink>
         </div>
 
